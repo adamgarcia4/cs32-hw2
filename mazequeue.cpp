@@ -18,6 +18,7 @@ private:
 // throughout the maze; return false otherwise
 bool pathExists(char maze[][10], int sr, int sc, int er, int ec);
 
+/*
 int main()
 {
 //stack<Coord> coordStack; //declares a stack of Coords
@@ -48,7 +49,7 @@ cout << "Out of luck!" << endl;
 
 cin.ignore(1000, '\n');
 }
-
+*/
 
 // Return true if there is a path from (sr,sc) to (er,ec)
 // throughout the maze; return false otherwise

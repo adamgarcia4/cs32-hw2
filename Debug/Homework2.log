@@ -1,3 +1,8 @@
-﻿  mazestack.cpp
+﻿  eval.cpp
+c:\users\adam garcia\google drive\classes\cs 32\homework2\homework2\eval.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam garcia\google drive\classes\cs 32\homework2\homework2\eval.cpp(170): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\adam garcia\google drive\classes\cs 32\homework2\homework2\eval.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam garcia\google drive\classes\cs 32\homework2\homework2\eval.cpp(186): warning C4715: 'infixToPostfix': not all control paths return a value
+c:\users\adam garcia\google drive\classes\cs 32\homework2\homework2\eval.cpp(252): warning C4715: 'evalOperand': not all control paths return a value
   Homework2.vcxproj -> C:\Users\Adam Garcia\Google Drive\Classes\CS 32\Homework2\Debug\Homework2.exe
   Homework2.vcxproj -> C:\Users\Adam Garcia\Google Drive\Classes\CS 32\Homework2\Debug\Homework2.pdb (Partial PDB)
